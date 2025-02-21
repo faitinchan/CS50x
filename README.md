@@ -1,4 +1,4 @@
-# Harvard CS50's Introduction to Computer Science
+# Harvard CS50's Introduction to Computer Science (2025)
 Below are all of the problem sets I worked on, along with the corresponding code I wrote. While these solutions may not be the most optimal, they represent my efforts in learning.
 ## Problem Set 0
 [scratch.sb3](https://scratch.mit.edu/projects/1134595594/)
