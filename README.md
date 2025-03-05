@@ -10,3 +10,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
 [scrabble.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_2/scrabble.c)
 
 [readability.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_2/readability.c)
+
+[substitution.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_2/substitution.c)
