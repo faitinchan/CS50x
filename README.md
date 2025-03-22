@@ -18,3 +18,8 @@ Below are all of the problem sets I worked on, along with the corresponding code
 
 - [substitution.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_2/substitution.c)
   Encrypting messages by user's input key.
+## Problem Set 3
+- [answers.txt](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_3/answers.txt)
+  Determining different sorting algorithms base on their runtimes.
+
+- [plurality.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_3/plurality.c)
