@@ -23,3 +23,4 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Determining different sorting algorithms base on their runtimes.
 
 - [plurality.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_3/plurality.c)
+  Announcing the winner from a plurality vote.
