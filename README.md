@@ -27,3 +27,6 @@ Below are all of the problem sets I worked on, along with the corresponding code
 
 - [tideman.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_3/tideman.c)
   Announcing the winner from an election through Tideman method.
+## Problem Set 4
+- [volume.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_4/volume.c)
+  Modifying the volume of an audio file
