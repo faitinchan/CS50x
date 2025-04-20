@@ -27,3 +27,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Modifying the volume of an audio file.
 - [filter-more](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_4/filter-more)
   Applying filters on BMP files.
+- [recover.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_4/recover.c)
+  Recovering JPEGs from a forensic image.
