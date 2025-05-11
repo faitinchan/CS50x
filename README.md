@@ -30,3 +30,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
 - [recover.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_4/recover.c)
   Recovering JPEGs from a forensic image.
 ## Problem Set 5 (Data Structures)
+- [inheritance.c](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_5/inheritance.c)
+  Generating and printing a family tree with their corresponding blood types.
