@@ -41,3 +41,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Printing out the pyramid blocks for Mario.
 - [credit.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/credit.py)
   Verifying credit card numbers.
+- [readability.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/readability.py)
+  Determining the level of input text.
