@@ -34,3 +34,6 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Generating and printing a family tree with their corresponding blood types.
 - [speller](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_5/speller)
   Utilizing a hash table data structure to develop a dictionary for spell-checking source text.
+## Problem Set 6 (Python)
+- [hello.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/hello.py)
+  Saying hello to the user.
