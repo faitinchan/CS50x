@@ -37,3 +37,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
 ## Problem Set 6 (Python)
 - [hello.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/hello.py)
   Saying hello to the user.
+- [mario.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/mario.py)
+  Printing out the pyramid blocks for Mario.
