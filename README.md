@@ -44,4 +44,4 @@ Below are all of the problem sets I worked on, along with the corresponding code
 - [readability.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/readability.py)
   Determining the level of input text.
 - [dna.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/dna.py)
-  Verifying a person's identity through checking the DNA profiling.
+  Verifying a person's identity through checking the DNA profile.
