@@ -45,3 +45,6 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Determining the level of input text.
 - [dna.py](https://github.com/faitinchan/CS50x/blob/main/Problem_Set_6/dna.py)
   Verifying a person's identity through checking the DNA profile.
+## Problem Set 7 (SQL)
+- [songs](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_7/songs)
+  Querying a database of the 100 most-streamed songs on Spotify in 2018.
