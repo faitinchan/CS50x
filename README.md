@@ -48,3 +48,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
 ## Problem Set 7 (SQL)
 - [songs](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_7/songs)
   Querying a database of the 100 most-streamed songs on Spotify in 2018.
+- [movies](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_7/movies)
+  Querying a database that stores data from IMDb about movies, the people who directed and starred in them, and their ratings.
