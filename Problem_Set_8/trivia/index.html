@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+            document.addEventListener('DOMContentLoaded', function() {
+                document.querySelector('#rakim').addEventListener('click', function() {
+                    document.querySelector('#first_response').innerHTML = 'Incorrect';
+                    document.querySelector('#rakim').style.background = 'red';
+                });
+            });
+
+            document.addEventListener('DOMContentLoaded', function() {
+                document.querySelector('#tupac').addEventListener('click', function() {
+                    document.querySelector('#first_response').innerHTML = 'Incorrect';
+                    document.querySelector('#tupac').style.background = 'red';
+                });
+            });
+
+            document.addEventListener('DOMContentLoaded', function() {
+                document.querySelector('#eminem').addEventListener('click', function() {
+                    document.querySelector('#first_response').innerHTML = 'Correct!';
+                    document.querySelector('#eminem').style.background = 'green';
+                });
+            });
+
+            document.addEventListener('DOMContentLoaded', function() {
+                document.querySelector('#nas').addEventListener('click', function() {
+                    document.querySelector('#first_response').innerHTML = 'Incorrect';
+                    document.querySelector('#nas').style.background = 'red';
+                });
+            });
+
+            document.addEventListener('DOMContentLoaded', function() {
+                let input = document.querySelector('input');
+                document.querySelector('form').addEventListener('submit', function(e) {
+                    if (input.value == 'Tupac Shakur') {
+                        document.querySelector('#second_response').innerHTML = 'Correct!';
+                    } else {
+                        document.querySelector('#second_response').innerHTML = 'Incorrect';
+                    }
+                    e.preventDefault();
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                 <h3>Which rapper was born in 1972?</h3>
+                 <button type="button" id="rakim">Rakim</button>
+                 <button type="button" id="tupac">2 Pac</button>
+                 <button type="button" id="eminem">Eminem</button>
+                 <button type="button" id="nas">Nas</button>
+                 <p id="first_response"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>In the above four rappers, who already passed away?</h3>
+                <form>
+                    <input autocomplete="off" placeholder="Please type his full name." type="text">
+                    <input type="submit">
+                </form>
+                <p id="second_response"></p>
+            </div>
+        </div>
+    </body>
+</html>
