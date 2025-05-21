@@ -52,3 +52,6 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Querying a database that stores data from IMDb about movies, the people who directed and starred in them, and their ratings.
 - [fiftyville](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_7/fiftyville)
   Solving a mystery case through querying a database.
+## Problem Set 8 (HTML, CSS, JavaScript)
+- [trivia](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_8/trivia)
+  Writing a webpage that lets users answer trivia questions.
