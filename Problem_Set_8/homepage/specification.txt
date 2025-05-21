@@ -1,0 +1,35 @@
+HTML
+1. <h1>
+2. <h2>
+3. <a>
+4. <p>
+5. <table>
+6. <thead>
+7. <tr>
+8. <th>
+9. <tbody>
+10. <td>
+11. <ul>
+12. <li>
+13. <ol>
+
+CSS
+Class/ID:
+    1. h1
+    2. p
+    3. table
+    4. h2
+    5. a
+    6. body
+Properties:
+    1. text-align
+    2. border
+    3. margin
+    4. color
+    5. background-color
+
+JavaScript
+Asking user a question before proceeding to another webpage
+
+Bootstrap
+I used Bootstrap for table head
