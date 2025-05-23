@@ -57,3 +57,6 @@ Below are all of the problem sets I worked on, along with the corresponding code
   Writing a webpage that lets users answer trivia questions.
 - [homepage](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_8/homepage)
   Building a simple homepage using HTML, CSS, and JavaScript.
+## Problem Set 9 (Flask)
+- [birthdays](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_9/birthdays)
+  Creating a web application to keep track of friends' birthdays.
