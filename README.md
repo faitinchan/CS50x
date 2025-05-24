@@ -60,3 +60,5 @@ Below are all of the problem sets I worked on, along with the corresponding code
 ## Problem Set 9 (Flask)
 - [birthdays](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_9/birthdays)
   Creating a web application to keep track of friends' birthdays.
+- [finance](https://github.com/faitinchan/CS50x/tree/main/Problem_Set_9/finance)
+  Implementing a website via which users can "buy" and "sell" stocks.
