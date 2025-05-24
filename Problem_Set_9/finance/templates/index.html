@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+    <h1>Portfolio</h1>
+    <h2>Grand Total: {{(cash + value) | usd}}</h2>
+    <p>Current Cash Balance: {{cash | usd}}</p>
+    <form action="/" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" name="amount" placeholder="Amount" type="number" min="0">
+        </div>
+        <button class="btn btn-primary" type="submit">Add</button>
+    </form>
+    <table>
+        <thead>
+            <tr>
+                <th>Stock</th>
+                <th>Quantity</th>
+                <th>Current Price</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for stock in stocks %}
+                <tr>
+                    <td>{{stock.stock}}</td>
+                    <td>{{stock.shares}}</td>
+                    <td>{{stock.current_price | usd}}</td>
+                    <td>{{(stock.shares * stock.current_price) | usd}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
