@@ -1,4 +1,5 @@
 # Harvard CS50's Introduction to Computer Science (2025)
+![image](https://github.com/faitinchan/CS50x/blob/main/CS50x.png)
 Below are all of the problem sets I worked on, along with the corresponding code I wrote. While these solutions may not be the most optimal, they recorded my learning progress.
 ## Problem Set 0 (Scratch)
 - [scratch.sb3](https://scratch.mit.edu/projects/1134595594/)
